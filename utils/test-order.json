@@ -1,0 +1,25 @@
+{
+  "shippingInfo": {
+    "address": "1 Indore",
+    "city": "Indore",
+    "phoneNo": "9898989898",
+    "postalCode": "302020",
+    "state": "Madhya Pradesh",
+    "country": "India"
+  },
+  "orderItems": [
+    {
+      "name": "two",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/dapqaxos7/image/upload/v1640798833/EcomStore/products/rru7wnpbhgdtoeolastr.jpg",
+      "price": 300,
+      "product": "61cc9a7bc05df35cd76c78f8"
+    }
+  ],
+  "paymentInfo": {
+    "id": "testString"
+  },
+  "taxAmount": 40,
+  "shippingAmount": 10,
+  "totalAmount": 350
+}
